@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/testbranch.iml" filepath="$PROJECT_DIR$/testbranch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testbranch-grailsPlugins.iml" filepath="$PROJECT_DIR$/testbranch-grailsPlugins.iml" />
     </modules>
   </component>
 </project>
